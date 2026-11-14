@@ -231,41 +231,17 @@ Screenshots from the practical activities are included below as evidence of the 
 
 ### Module 1: Footprinting Using Kali Linux Tools
 
-**1. WHOIS Results**
-
-![WHOIS Results](evidence/module1/whois.png)
-
-**2. WhatWeb Results**
-
-![WhatWeb Results](evidence/module1/whatweb.png)
-
-**3. cURL Results**
-
-![cURL Results](evidence/module1/curl.png)
-
-**4. WAFW00F Results**
-
-![WAFW00F Results](evidence/module1/wafw00f.png)
-
-**5. DNSRecon Results**
-
-![DNSRecon Results](evidence/module1/dnsrecon.png)
-
-**6. Nslookup Results**
-
-_Add your Nslookup screenshot here._
+<img src="ss1.png" width="700">
+<img src="ss2.png" width="700">
+<img src="ss3.png" width="700">
+<img src="ss4.png" width="700">
+<img src="ss5.png" width="700">
 
 ### Module 5: Zenmap-Based Network Scanning
 
-**1. Network Discovery / Ping Scan**
-
-![Zenmap Ping Scan](evidence/module5/zenmap-ping-scan.png)
-
-**2. Network Topology**
-
-![Zenmap Network Topology](evidence/module5/zenmap-topology.png)
-
----
+<img src="ss7.png" width="700">
+<img src="ss8.png" width="700">
+<img src="ss10.png" width="700">
 
 **Internship:** NetworkWalk  
 **Week:** 2  
